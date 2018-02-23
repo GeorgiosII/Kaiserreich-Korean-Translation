@@ -23,7 +23,7 @@ DEH_paternal_autocrat_party_long:0 "왕실 지지자"
 DEH_national_populist_party_long:0 "황실 지지자"
 
 ### Leader Descriptions ###
-POLITICS_GEORGE_FIFTH_DESC:0 "The years since the Weltkrieg have seen much trouble in the British Raj, with the British Revolution of 1925 being the catalyst for many of the events since, but the loyalty to the King-Emperor George remained steadfast among some of his Indian subjects, particularly those in the north. But one, unsinkable truth for the King-Emperor is that the new Dominion is no Raj- it is but just a shaving of the Jewel of the Crown. No longer does the Crown maintain an iron grip on the subcontinent, but a loose alliance with the north- a truth that does not help the demeanour of the King-Emperor in the slightest, and a truth that sits uncomfortably with the Delhi Government, of whom many members wish to break all ties with the King-Emperor and declare home rule. For now the King-Emperor still rules, but his power is diminished and his roar is now a soft bark."
+POLITICS_GEORGE_FIFTH_DESC:0 "세계대전 이후 수년 동안 영국령 인도제국은 많은 어려움을 겪었고, 이들 대부분은 1925년 영국 혁명이 촉매로써 작용한 것이었다. 그러나 왕이며 황제인 조지 5세에 대한 일부 인도인 백성들의 충성심은 특히 인도 북부에서는 변함이 없었다. 그러나 왕-황제에게 무시할 수 없는 사실 한 가지는 자치령이 더 이상 제국이 아니라는 것이다. 자치령은 왕국의 보물 중 깎아낸 부스러기에 불가능할 뿐이다. 왕실은 더 이상 인도 아대륙에 단단한 통제를 유지하지 않으며, 북부의 느슨한 동맹만을 유지하고 있다. -한 가지 사실은 이것이 왕-황제의 처신에 조금도 도움이 되지 않는다는 것이 있다. 델리의 정부를 불편하게 하는 다른 사실은 정부의 많은 구성원들이 왕-황제와의 모든 유대를 끊고 자치를 선언하길 고대한다는 것이다. 현재로서는 왕-황제가 여전히 지배하고 있으나, 그 권력은 감소하였고, 그의 포효는 이제 나약한 짖는 소리일 뿐이다."
 
 ### Tooltips ###
 DEH_ISAC_has_formed:0 "§Y[CAN.GetName]§! has formed the ISAC\n"
@@ -54,14 +54,14 @@ DEH_gandhi_hos:0 "§YMohandas Karamchand Gandhi§! becomes Head of State until t
 
 ### Ideas ###
 DEH_princely_power:0 "왕의 힘"
-DEH_princely_power_desc:0 "The Dominion of India was only able to remain in government thanks to the loyalty of the northern princes. They share power with the government, but it is a difficult and archaic process that involves a great deal of waste."
-DEH_princely_domination:0 "Princely Domination of Government"
-DEH_princely_pension:0 "Princely Pension"
-DEH_princes_removed:0 "Princes Removed from Power"
+DEH_princely_power_desc:0 "인도 자치령은 오로지 북부 토호들의 충성 덕분에 정부 권력을 유지할 수 있었다. 그들은 정부와 권력을 공유하지만, 이는 많은 낭비를 수반하는 어렵고 구식인 과정이다."
+DEH_princely_domination:0 "토호들의 정부 장악"
+DEH_princely_pension:0 "토호들을 위한 연금"
+DEH_princes_removed:0 "토호들이 권력을 상실하다"
 DEH_unitedindia:0 "통일된 인도!"
-DEH_trade_unions_banned:0 "Trade Unions Banned"
-DEH_workers_protected:0 "Workers Protected by the Government"
-DEH_support_unions:0 "Unions Supported by the Government"
+DEH_trade_unions_banned:0 "노동조합이 금지되다"
+DEH_workers_protected:0 "정부에게 보호받는 노동자들"
+DEH_support_unions:0 "정부에게 지원받는 노조들"
 DEH_fiveyearplan:0 "5개년 계획"
 DEH_freemarket:0 "자유 시장 중점"
 DEH_balance:0 "균형잡힌 경제"
